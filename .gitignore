@@ -1,11 +1,5 @@
-/target
-/classes
-/checkouts
-pom.xml
-pom.xml.asc
-*.jar
-*.class
-/.lein-*
-/.nrepl-port
 .hgignore
-.hg/
+.lein-failures
+.lein-repl-history
+.nrepl-port
+target/
